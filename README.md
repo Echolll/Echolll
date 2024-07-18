@@ -8,7 +8,7 @@
    - Учебные прототипы
      - [Раннер](https://github.com/Echolll/Runner)
      - [Карточная игра](https://github.com/Echolll/CardGame)
-     - [Танчики с Денди (Battle City)](https://github.com/Echolll/Tanks1990)
+     - [Танчики (Battle City)](https://github.com/Echolll/Tanks1990)
      - [Гонки на время](https://github.com/Echolll/ArcadeRace)
    
 ### Сертефикаты Нетологии:
