@@ -3,7 +3,7 @@
 Я <b>Денис Шульга</b>, разработчик игр на Unity
 
 ### Вот что я умею:
-1. Unity
+1. <b>Unity</b>
    - [Дипломная работа "Top Down Shooter"](https://github.com/Echolll/ProjectTDS)
    - Учебные прототипы
      - [Раннер](https://github.com/Echolll/Runner)
