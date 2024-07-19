@@ -4,13 +4,12 @@
 Здесь собранны все домашние задания выполненые на курсе
 
 ### Модуль 1
-- [Основы языка программирования C#]()
-- [Работа с игровой сценой]()
-- [Пользовательский ввод]()
+- [Основы языка программирования C#](https://github.com/Echolll/Basics-of-the-programming-language)
+- [Работа с игровой сценой](https://github.com/Echolll/Work-with-game-scene)
+- [Пользовательский ввод](https://github.com/Echolll/User-input)
 
 ### Модуль 2
-- [Коллекции и циклы]()
-- [Подробнее про ООП]()
+- [Подробнее про ООП](https://github.com/Echolll/Learn-more-about-the-PLO)
 - [Параллельное и асинхронное программирование](https://github.com/Echolll/Checkers-Observer-)
 
 ### Модуль 3
