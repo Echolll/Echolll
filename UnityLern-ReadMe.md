@@ -11,13 +11,13 @@
 ### Модуль 2
 - [Коллекции и циклы]()
 - [Подробнее про ООП]()
-- [Параллельное и асинхронное программирование]()
+- [Параллельное и асинхронное программирование](https://github.com/Echolll/Checkers-Observer-)
 
 ### Модуль 3
-- [Векторная математика]()
-- [Unity UI]()
-- [AI противников]()
+- [Векторная математика](https://github.com/Echolll/Arcanoid)
+- [Unity UI](https://github.com/Echolll/Arcanoid/tree/UI)
+- [AI противников](https://github.com/Echolll/Ziggurat)
 
 ### Моудль 4
-- [Нюансы работы Unity. Сборка]()
-- [Подключение к Интернету]()
+- [Нюансы работы Unity. Сборка](https://github.com/Echolll/Runner)
+- [Подключение к Интернету](https://github.com/Echolll/ConnectToInternetHW)
