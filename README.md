@@ -7,6 +7,8 @@
    - [Дипломная работа "Top Down Shooter"](https://github.com/Echolll/ProjectTDS)
    - [Учебные прототипы игр](https://github.com/Echolll/Echolll/blob/main/UnityLern-Prototype.md)
    - [Домашние работы по курсу](https://github.com/Echolll/Echolll/blob/main/UnityLern-ReadMe.md)
+   - [Пет-проекты](https://github.com/Echolll/Echolll/blob/main/Pet-projects.md)
    
 ### Сертефикаты Нетологии:
 1. [Сертефикат Unity](https://github.com/Echolll/Echolll/blob/main/certificate-unity.pdf)
+
